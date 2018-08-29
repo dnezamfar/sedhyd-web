@@ -15,7 +15,7 @@ googleAnalytics = "UA-123026999-1"
   [[menu.main]]
     name = "Call for Papers"
     pre = "<i class='fa fa-road'></i>"
-    url = "/files/SEDHYD2019-CallForPapers-2018-06-29.pdf"
+    url = "/files/SEDHYD-2019-Call_For_Papers-2018-08-27.pdf"
     weight = -100
 
   [[menu.main]]

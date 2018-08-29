@@ -18,7 +18,7 @@ Federal, state, and local agency personnel, consultants, researchers, equipment 
 
 # Submission of Abstracts
 
-<font color="red"><h3>Abstract due date:  September 1, 2018</h3></font>
+<font color="red"><h3>Abstract due date has been extended to:  September 17th, 2018</h3></font>
 
 Conference organizers invite 500-word abstract submissions for technical papers, presentations, posters computer model demonstrations and short courses.
 
@@ -71,7 +71,9 @@ SEDHYD 2019 provides exhibitors the opportunity to interact and meet directly wi
 
 Please contact Molly Wood [mswood@usgs.gov](mailto:mswood@usgs.gov) for more information. 
 
-# Short Course and Field Trip Proposals
+# Call for Short Course and Field Trip Proposals
+
+[Download Call for Short Course Proposals](/2019/files/SEDHYD-2019-Call_For_Short_Course_Proposals.pdf)
 
 Please submit full-day or half-day short course proposals to Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com)
 
