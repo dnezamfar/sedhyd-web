@@ -1,1 +1,15 @@
-public
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
+# IDEs
+.buildpath
+.project
+.settings/
+.build/
+.idea/
+public/
+nbproject/
