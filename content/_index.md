@@ -16,23 +16,16 @@ Improving Resiliency and Sustainability of Watershed Resources and Infrastructur
 # Who Should Attend
 Federal, state, and local agency personnel, consultants, researchers, equipment manufacturers, and service suppliers associated with hydrologic, hydraulic, sediment transport, or non-point source pollution modeling; and those involved in water-resources, water supply, or water-conservation assessment or management.
 
-# Submission of Abstracts
+# Abstract Submissions and Important Dates
 
-<font color="red"><h3>Abstract due date has been extended to:  September 17th, 2018</h3></font>
-
-Conference organizers invite 500-word abstract submissions for technical papers, presentations, posters computer model demonstrations and short courses.
+Abstract submission has been closed. Authors of accepted submissions have been notified.<br>To manage your submission, visit the [OpenConf web site](https://www.sedhyd.org/2019/openconf/).
 
 **Please note the following dates:**
 
-- Notification of abstracts acceptance by **October 15, 2018**.
-- Draft papers due **December 15, 2018**.
-- Final papers due **April 25, 2019**.
-
-Conference planners anticipate 280 papers, and 50 posters and computer model demonstrations.  Papers should address results of recent research, technology development, or applications and case studies on the following proposed subject areas.
-
-Authors wishing to present technical papers or posters, or participate in the computer modeling demonstration session must submit an abstract of not more than 500 words.  **Submit abstracts only through the OpenConf software accessed through this [website](https://www.sedhyd.org/2019/openconf/)**.  Either copy and paste, or directly type the content of your abstract into the abstract submission form.  The OpenConf software does not allow you to upload abstracts as a separate document.
-
-Initial abstract submissions will not be published. They are used only for approval and for determining the conference program. Technical papers, or extended abstracts, are **required** for oral presentations, posters, and computer models demonstrations.
+- Notification of abstracts acceptance by **October 30, 2018**
+- Communication to authors on presentation format (oral or poster) by **December 17, 2018**
+- Draft papers due **January 15, 2018**
+- Final papers due **April 25, 2019**
 
 | **SEDIMENTATION TOPICS** | **HYDROLOGIC MODELING TOPICS** |
 |:------------|:-------------|
