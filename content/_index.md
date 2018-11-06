@@ -66,7 +66,7 @@ Please contact Molly Wood [mswood@usgs.gov](mailto:mswood@usgs.gov) for more inf
 
 # Call for Short Course and Field Trip Proposals
 
-The call for short course and  field trip proposoals has closed.
+The call for short course and field trip proposals has closed.
 
 For more infroamtion about short courses, contact Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com).
 
