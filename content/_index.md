@@ -66,11 +66,11 @@ Please contact Molly Wood [mswood@usgs.gov](mailto:mswood@usgs.gov) for more inf
 
 # Call for Short Course and Field Trip Proposals
 
-[Download Call for Short Course Proposals](/2019/files/SEDHYD-2019-Call_For_Short_Course_Proposals.pdf)
+The call for short course and  field trip proposoals has closed.
 
-Please submit full-day or half-day short course proposals to Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com)
+For more infroamtion about short courses, contact Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com).
 
-Please submit any field trip proposals to Steven Berris at [snberris@usgs.gov](mailto:snberris@usgs.gov)
+For more information about field trips, contact Steven Berris at [snberris@usgs.gov](mailto:snberris@usgs.gov).
 
 # Student Volunteers
 
