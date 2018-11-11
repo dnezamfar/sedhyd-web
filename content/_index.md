@@ -6,7 +6,7 @@ description: "Peppermill Hotel in Reno, NV"
 <p align="center"><img src="/2019/files/logo-SEDHYD.jpg" width="250" height="250" /></p>
 <p align="center"><img src="/2019/files/ASCE-EWRI-Logo-collaborate.png" width="250" height="250" /></p>
 
-<font size="6" color="blue">Hosted by SEDHYD, INC.</font>
+<font size="6" color="blue">Hosted by SEDHYD, INC.</font><br>
 <font size="6" color="blue">Co-Sponsored by EWRI (<a href="https://web.archive.org/web/20180831042413/https://www.ewricongress.org/">www.ewricongress.org</a>)</font>
 
 # About the Conference
