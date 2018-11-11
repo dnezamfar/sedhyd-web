@@ -72,7 +72,7 @@ Please contact Molly Wood [mswood@usgs.gov](mailto:mswood@usgs.gov) for more inf
 
 The call for short course and field trip proposals has closed.
 
-For more infroamtion about short courses, contact Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com).
+For more information about short courses, contact Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com).
 
 For more information about field trips, contact Steven Berris at [snberris@usgs.gov](mailto:snberris@usgs.gov).
 
