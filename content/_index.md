@@ -7,7 +7,7 @@ description: "Peppermill Hotel in Reno, NV"
 
 <p align="center">
 <font size="6" color="blue" >Hosted by SEDHYD, INC.</font><br>
-<font size="6" color="blue" align="center">Co-Sponsored by EWRI (<a href="https://web.archive.org/web/20180831042413/https://www.ewricongress.org/">www.ewricongress.org</a>)</font></p>
+<font size="6" color="blue" align="center">Co-Sponsored by EWRI (<a href="https://www.ewricongress.org/">www.ewricongress.org</a>)</font></p>
 
 # About the Conference
 The first Federal Interagency Sedimentation Conference (FISC) convened in 1947, and the first Federal Interagency Hydrologic Modeling Conference (FIHMC) convened in 1998.  Because these two conferences had similar and overlapping content and participants, organizers combined them into a single highly successful joint conference for the first time in 2006.  The second and third SEDHYD conferences followed in 2010 and 2015.  As a result of all these conferences, 3,000 papers have been published through the conference proceedings, which are available at https://acwi.gov/sos/pubs/index.html 
@@ -51,7 +51,7 @@ Stream Restoration |
 
 **Other topics or special sessions may be proposed.**
 
-Please contact Chandra Pathak at [chandra.s.pathak@usace.army.mil](mailto:chandra.s.pathak@usace.army.mil) if you are interested in becoming a session moderator or would like to propose a special session. <font color="red">Please use SEDHYD in the subject line of the email</font>
+Please contact Chandra Pathak at [chandra.s.pathak@usace.army.mil](mailto:chandra.s.pathak@usace.army.mil) if you are interested in becoming a session moderator or would like to propose a special session. <br><font color="red">Please use SEDHYD in the subject line of the email</font>
 
 
 If you have questions or need help, please contact either of the Technical Program Chairs: Eddy Langendoen [eddy.langendoen@ars.usda.gov](mailto:eddy.langendoen@ars.usda.gov) for the Sedimentation Conference, or Jim Barton [jbarton.sedhyd@gmail.com](mailto:jbarton.sedhyd@gmail.com) for the Hydrologic Modeling Conference.
@@ -61,6 +61,10 @@ If you have questions or need help, please contact either of the Technical Progr
 [Download Instructions for Authors](/2019/files/SEDHYD-2019-Instructions-for-authors.pdf)
 
 [Download Template for Papers](/2019/files/SEDHYD-2019-Template-for-Papers.docx)
+
+
+# Program-at-a-glance
+A preview of the program for the conference can be found <a href="/2019/program/">here</a>. 
 
 
 # Become An Exhibitor
