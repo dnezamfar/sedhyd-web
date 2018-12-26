@@ -58,6 +58,8 @@ If you have questions or need help, please contact either of the Technical Progr
 
 # Instructions for Authors and Template for Papers
 
+<span style="color:red">Please use these same instructions for full papers or extended abstracts.</span>
+
 [Download Instructions for Authors](/2019/files/SEDHYD-2019-Instructions-for-authors.pdf)
 
 [Download Template for Papers](/2019/files/SEDHYD-2019-Template-for-Papers.docx)
