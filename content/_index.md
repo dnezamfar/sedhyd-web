@@ -28,7 +28,7 @@ Abstract submission has been closed. Authors of accepted submissions have been n
 
 - Notification of abstracts acceptance by **October 30, 2018**
 - Communication to authors on presentation format (oral or poster) by **December 17, 2018**
-- Draft papers due **January 15, 2019**
+- Draft papers due **January 30th, 2019**
 - Final papers due **April 25, 2019**
 
 | **SEDIMENTATION TOPICS** | **HYDROLOGIC MODELING TOPICS** |
