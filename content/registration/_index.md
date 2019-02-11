@@ -17,4 +17,3 @@ If you register by 20 May 2019, the fee is $475.00. After 20 May 2019, the fee i
 * **Field Trips/Workshops Only Registration** - this is the registration type also individuals to only sign up for the field trips and workshops that are available on Monday and Friday.
 
 The registration site will be available February 12th, 2019.
-
