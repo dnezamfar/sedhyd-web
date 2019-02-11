@@ -20,7 +20,7 @@ Improving Resiliency and Sustainability of Watershed Resources and Infrastructur
 # Who Should Attend
 Federal, state, and local agency personnel, consultants, researchers, equipment manufacturers, and service suppliers associated with hydrologic, hydraulic, sediment transport, or non-point source pollution modeling; and those involved in water-resources, water supply, or water-conservation assessment or management.
 
-# Abstract Submissions and Important Dates
+# Important Dates for Abstract Authors
 
 Abstract submission has been closed. Authors of accepted submissions have been notified.<br>To manage your submission, visit the [OpenConf web site](https://www.sedhyd.org/2019/openconf/).
 
@@ -65,8 +65,8 @@ If you have questions or need help, please contact either of the Technical Progr
 [Download Template for Papers](/2019/files/SEDHYD-2019-Template-for-Papers.docx)
 
 
-# Program-at-a-glance
-A preview of the program for the conference can be found <a href="/2019/program/">here</a>. 
+# Conference Program (**updated**)
+Conference program information can be found [here](/program/) 
 
 
 # Become An Exhibitor
@@ -74,11 +74,15 @@ SEDHYD 2019 provides exhibitors the opportunity to interact and meet directly wi
 
 Please contact Molly Wood [mswood@usgs.gov](mailto:mswood@usgs.gov) for more information. 
 
-# Call for Short Course and Field Trip Proposals
+# SEDHYD Workshop Options (**new**)
 
-The call for short course and field trip proposals has closed.
+Detailed workshop information will be released soon.
 
 For more information about short courses, contact Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com).
+
+# SEDHYD Field Trip Options (**new**)
+
+[Download PDF of SEDHYD field trip options](/files/SEDHYD_Field_Trips.pdf)
 
 For more information about field trips, contact Steven Berris at [snberris@usgs.gov](mailto:snberris@usgs.gov).
 
