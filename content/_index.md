@@ -66,7 +66,7 @@ If you have questions or need help, please contact either of the Technical Progr
 
 
 # Conference Program (**updated**)
-Conference program information can be found [here](/program/) 
+Conference program information can be found [here](/2019/program/) 
 
 
 # Become An Exhibitor
@@ -76,13 +76,13 @@ Please contact Molly Wood [mswood@usgs.gov](mailto:mswood@usgs.gov) for more inf
 
 # SEDHYD Workshop Options (**new**)
 
-Detailed workshop information will be released soon.
+[Download PDF of SEDHYD workshop options](/2019/files/SEDHYD_2019_Workshops.pdf)
 
 For more information about short courses, contact Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com).
 
 # SEDHYD Field Trip Options (**new**)
 
-[Download PDF of SEDHYD field trip options](/files/SEDHYD_Field_Trips.pdf)
+[Download PDF of SEDHYD field trip options](/2019/files/SEDHYD_2019_Field_Trips.pdf)
 
 For more information about field trips, contact Steven Berris at [snberris@usgs.gov](mailto:snberris@usgs.gov).
 
