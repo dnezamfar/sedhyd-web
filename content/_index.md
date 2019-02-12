@@ -74,7 +74,7 @@ SEDHYD 2019 provides exhibitors the opportunity to interact and meet directly wi
 
 To register as an exhibitor, go to the SEDHYD registration site and select exhibitor category. Exhibitors receive one full registration to the conference. Two conference receptions and multiple conference breaks will be held in the exhibitor gallery to provide high exposure to booths by conference participants. 
 
-Please contact Molly Wood (mswood@usgs.gov) for more information. Exhibitors interested in sponsoring a conference event or break should contact the SEDHYD Chair, Jerry Webb (JWebb.sedhyd@gmail.com).  
+Please contact Molly Wood [mswood@usgs.gov](mswood@usgs.gov) for more information. Exhibitors interested in sponsoring a conference event or break should contact the SEDHYD Chair, Jerry Webb [JWebb.sedhyd@gmail.com](JWebb.sedhyd@gmail.com).  
 
 
 # SEDHYD Workshop Options (**new**)
