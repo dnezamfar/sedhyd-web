@@ -70,9 +70,12 @@ Conference program information can be found [here](/2019/program/)
 
 
 # Become An Exhibitor
-SEDHYD 2019 provides exhibitors the opportunity to interact and meet directly with scientists, engineers, environmental specialists and researchers, working in the following areas:  surface-water discharge, sediment, and water-quality data collection; recording and analysis equipment and software; laboratory equipment; erosion control products; computer hardware and software for collection, distribution, and/or analysis of hydrologic data; surveying equipment, both for ground surface and underwater use; computer models related to sedimentation and hydrology; and any other related equipment, services, or organizations, including professional societies, related to the SEDHYD theme.
+SEDHYD 2019 provides exhibitors the opportunity to interact and meet directly with scientists, engineers, environmental specialists and researchers, working in the following areas: surface-water discharge, sediment, and water-quality data collection; recording and analysis equipment and software; laboratory equipment; erosion control products; computer hardware and software for collection, distribution, and/or analysis of hydrologic data; surveying equipment, both for ground surface and underwater use; computer models related to sedimentation and hydrology; and any other related equipment, services, or organizations, including professional societies, related to the SEDHYD theme. 
 
-Please contact Molly Wood [mswood@usgs.gov](mailto:mswood@usgs.gov) for more information. 
+To register as an exhibitor, go to the SEDHYD registration site and select exhibitor category. Exhibitors receive one full registration to the conference. Two conference receptions and multiple conference breaks will be held in the exhibitor gallery to provide high exposure to booths by conference participants. 
+
+Please contact Molly Wood (mswood@usgs.gov)[mswood@usgs.gov] for more information. Exhibitors interested in sponsoring a conference event or break should contact the SEDHYD Chair, Jerry Webb (JWebb.sedhyd@gmail.com)[JWebb.sedhyd@gmail.com].  
+
 
 # SEDHYD Workshop Options (**new**)
 
