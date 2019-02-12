@@ -10,7 +10,7 @@ If you register by 20 May 2019, the fee is $475.00. After 20 May 2019, the fee i
 
 * **Senior Registration** - this is the registration for individuals who are 65 or older, and is working less than 25 percent of the time. The fee is $250.00.
 
-* **Student Registration** - this is the registration for individuals who are considered students.  The fee is $250.00.
+* **Student Registration** - this is the registration for individuals who are considered students (someone that is currently enrolled at a college, or someone who has recently graduated as recently as Spring or Summer 2019).  The fee is $250.00.
 
 * **Guest/Single Day Registration** - this is the registration for those individuals who only want to attend for only a day. The single day registrations available are Tuesday, Wednesday, Thursday, and Friday.
 
