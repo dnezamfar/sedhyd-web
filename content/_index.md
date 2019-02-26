@@ -2,7 +2,9 @@
 title: "June 24-28th, 2019"
 featured_image: '/images/2015-04-SEDHYD-Reno-085.JPG'
 description: "Peppermill Hotel in Reno, NV"
+test:test
 ---
+
 
 <p align="center"><img src="/2019/files/logo-SEDHYD.jpg" width="250" height="250" /><img src="/2019/files/ASCE-EWRI-Logo-collaborate.png" width="250" height="250" /></p>
 
