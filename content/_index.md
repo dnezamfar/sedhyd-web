@@ -4,7 +4,6 @@ featured_image: '/images/2015-04-SEDHYD-Reno-085.JPG'
 description: "Peppermill Hotel in Reno, NV"
 ---
 
-// Testing
 <p align="center"><img src="/2019/files/logo-SEDHYD.jpg" width="250" height="250" /><img src="/2019/files/ASCE-EWRI-Logo-collaborate.png" width="250" height="250" /></p>
 
 <p align="center">
@@ -69,8 +68,7 @@ If you have questions or need help, please contact either of the Technical Progr
 
 # Conference Program (**updated**)
 Conference program information can be found [here](/2019/program/) 
-Test
-Test1
+
 # Become An Exhibitor
 SEDHYD 2019 provides exhibitors the opportunity to interact and meet directly with scientists, engineers, environmental specialists and researchers, working in the following areas: surface-water discharge, sediment, and water-quality data collection; recording and analysis equipment and software; laboratory equipment; erosion control products; computer hardware and software for collection, distribution, and/or analysis of hydrologic data; surveying equipment, both for ground surface and underwater use; computer models related to sedimentation and hydrology; and any other related equipment, services, or organizations, including professional societies, related to the SEDHYD theme. 
 
