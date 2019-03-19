@@ -2,7 +2,6 @@
 title: "June 24-28th, 2019"
 featured_image: '/images/2015-04-SEDHYD-Reno-085.JPG'
 description: "Peppermill Hotel in Reno, NV"
-test:test
 ---
 
 
