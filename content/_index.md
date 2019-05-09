@@ -82,7 +82,7 @@ Please contact Molly Wood [mswood@usgs.gov](mswood@usgs.gov) for more informatio
 
 [Download PDF of SEDHYD workshop options](/2019/files/SEDHYD_2019_Workshops.pdf)
 
-The full-day workshops cost $75.00 and the half-day workshops cost $40.00.  Registration for the workshops is done through the {main registration site}(http://www.cvent.com/d/0bq6d0).
+The full-day workshops cost $75.00 and the half-day workshops cost $40.00.  Registration for the workshops is done through the [main registration site](http://www.cvent.com/d/0bq6d0).
 For more information about short courses, contact Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com).
 
 # SEDHYD Field Trip Options (**new**)
