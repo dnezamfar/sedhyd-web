@@ -22,7 +22,7 @@ Improving Resiliency and Sustainability of Watershed Resources and Infrastructur
 # Who Should Attend
 Federal, state, and local agency personnel, consultants, researchers, equipment manufacturers, and service suppliers associated with hydrologic, hydraulic, sediment transport, or non-point source pollution modeling; and those involved in water-resources, water supply, or water-conservation assessment or management.
 
-# Important Dates for Abstract Authors
+# Important Dates for Abstract Authors 
 
 Abstract submission has been closed. Authors of accepted submissions have been notified.<br>To manage your submission, visit the [OpenConf web site](https://www.sedhyd.org/2019/openconf/).
 
@@ -82,6 +82,7 @@ Please contact Molly Wood [mswood@usgs.gov](mswood@usgs.gov) for more informatio
 
 [Download PDF of SEDHYD workshop options](/2019/files/SEDHYD_2019_Workshops.pdf)
 
+The full-day workshops cost $75.00 and the half-day workshops cost $40.00.  Registration for the workshops is done through the {main registration site}(http://www.cvent.com/d/0bq6d0).
 For more information about short courses, contact Jeff Bradley at [jeffbradley@westconsultants.com](mailto:jeffbradley@westconsultants.com).
 
 # SEDHYD Field Trip Options (**new**)
