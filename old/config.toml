@@ -23,19 +23,12 @@ googleAnalytics = "UA-123026999-1"
     pre = "<i class='fa fa-road'></i>"
     url = "/venue/"
     weight = -100
-	
   [[menu.main]]
     name = "Registration"
     pre = "<i class='fa fa-road'></i>"
     url = "/registration/"
     weight = -100
 
-  [[menu.main]]
-    name = "Keynote Speakers"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/speakers/"
-    weight = -100	
-	
 [[menu.main]]
     name = "Contact Us"
     pre = "<i class='fa fa-road'></i>"

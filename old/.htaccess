@@ -1,0 +1,11 @@
+
+RewriteEngine on
+
+# AddType application/x-httpd-php55 .php
+
+suPHP_ConfigPath /home/sedhyd
+RewriteCond %{HTTP_HOST} ^sedhyd\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.sedhyd\.org$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "https\:\/\/www\.sedhyd\.org\/2019\/" [R=301,L]
