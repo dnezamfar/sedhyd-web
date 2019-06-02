@@ -22,6 +22,14 @@ Improving Resiliency and Sustainability of Watershed Resources and Infrastructur
 # Who Should Attend
 Federal, state, and local agency personnel, consultants, researchers, equipment manufacturers, and service suppliers associated with hydrologic, hydraulic, sediment transport, or non-point source pollution modeling; and those involved in water-resources, water supply, or water-conservation assessment or management.
 
+# Instructions for Oral Presenters (**new**)
+
+[Download Instructions for Oral Presenters](/2019/files/SEDHYD_Instructions_for_Presenters.pdf)
+
+# Poster and Model Presentation Instructions (**new**)
+
+[Download Poster and Model Presentation Instructions](/2019/files/SEDHYD_Poster-Model_Demo_Instructions.pdf)
+
 # Important Dates for Abstract Authors 
 
 Abstract submission has been closed. Authors of accepted submissions have been notified.<br>To manage your submission, visit the [OpenConf web site](https://www.sedhyd.org/2019/openconf/).
