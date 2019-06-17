@@ -8,5 +8,5 @@ Hotel reservations can be made by calling the Peppermill Hotel at (775) 826-2121
 
 https://www.google.com/search?q=peppermill+hotel+reno&rlz=1C1GCEA_enUS815US815&oq=peppermill+hotel+reno+&aqs=chrome..69i57j0l5.4935j0j8&sourceid=chrome&ie=UTF-8#>
 
-Identifying that you are attending the SEDHYD conference to get the best available rate and resort fee waived.
+Identify that you are attending the SEDHYD conference to get the best available rate and resort fee waived.
  
